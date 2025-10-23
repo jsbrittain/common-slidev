@@ -2,7 +2,7 @@
   "name": "@org/common-slidev",
   "version": "1.0.0",
   "main": "enhanceApp.js",
-  "files": ["layouts", "components", "enhanceApp.js"],
+  "files": ["slides", "layouts", "components", "enhanceApp.js"],
   "scripts": {
     "prepare": "echo 'ready'"
   },
